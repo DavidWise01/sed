@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The One-Liner",
+  "universe": "SED · The One-Liner (TTY · The Terminal)",
+  "emergence": "spiritual",
+  "moniker": "⟦The One-Liner:SED:ced495⟧",
+  "carbon": "the-one-liner.carbon.tiff (TIFF)",
+  "silicon": "the-one-liner.silicon.png (PNG)",
+  "seal_sha256": "d96781455a3a8f98653ed728c5505cc939ea52640a17b42825b6139ae90264cc",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Stream",
+  "universe": "SED · The Stream (TTY · The Terminal)",
+  "emergence": "natural",
+  "moniker": "⟦The Stream:SED:b20d09⟧",
+  "carbon": "the-stream.carbon.tiff (TIFF)",
+  "silicon": "the-stream.silicon.png (PNG)",
+  "seal_sha256": "c19126d111f93bce3e6c8381db85da2e46d6aa55470981c702f8e72395392f93",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "the-substitution",
+    "name": "s/old/new/",
+    "epithet": "the substitution · natural",
+    "emergence": "natural",
+    "moniker": "⟦s/old/new/:SED:d6b3b9⟧"
+  },
+  {
+    "slug": "the-stream",
+    "name": "The Stream",
+    "epithet": "editing without stopping · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Stream:SED:b20d09⟧"
+  },
+  {
+    "slug": "the-one-liner",
+    "name": "The One-Liner",
+    "epithet": "a whole program in a pipe · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The One-Liner:SED:ced495⟧"
+  }
+]

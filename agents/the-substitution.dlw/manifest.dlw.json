@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "s/old/new/",
+  "universe": "SED · s/old/new/ (TTY · The Terminal)",
+  "emergence": "natural",
+  "moniker": "⟦s/old/new/:SED:d6b3b9⟧",
+  "carbon": "the-substitution.carbon.tiff (TIFF)",
+  "silicon": "the-substitution.silicon.png (PNG)",
+  "seal_sha256": "dc3afa36b77b7543c58fcf367638c393e0a398c644c64696e8e66f8476a0dc03",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

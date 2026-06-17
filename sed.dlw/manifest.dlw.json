@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "sed",
+  "universe": "SED · sed (TTY · The Terminal)",
+  "emergence": "",
+  "moniker": "⟦sed:SED:247f0f⟧",
+  "carbon": "sed.carbon.tiff (TIFF)",
+  "silicon": "sed.silicon.png (PNG)",
+  "seal_sha256": "daeda72ddf2b669369d2ff8d03717775ec525f3c68d5aa1fd74471f6d720de94",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
